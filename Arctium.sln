@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Framework", "Framework.ConvertedToVBNet\Framework.vbproj", "{E95487FB-0CE8-4A99-B9F0-196F460609A0}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Framework", "Framework\Framework.vbproj", "{E95487FB-0CE8-4A99-B9F0-196F460609A0}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RealmServer", "RealmServer.ConvertedToVBNet\RealmServer.vbproj", "{A1C65A6E-3A82-4A18-BB51-6EAB3841D401}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RealmServer", "RealmServer\RealmServer.vbproj", "{A1C65A6E-3A82-4A18-BB51-6EAB3841D401}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WorldServer", "WorldServer.ConvertedToVBNet\WorldServer.vbproj", "{0BDB646C-1EF6-4FA7-9FEC-70BE913C81FC}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WorldServer", "WorldServer\WorldServer.vbproj", "{0BDB646C-1EF6-4FA7-9FEC-70BE913C81FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

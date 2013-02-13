@@ -1,1 +1,0 @@
-P:\Projects\#DotNet_Proj\mangos\mangSrc\Calixa\Framework.ConvertedToVBNet\obj\x64\Debug\Framework.Converted.vbprojResolveAssemblyReference.cache
